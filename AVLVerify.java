@@ -1,5 +1,3 @@
-//package AMN170002;
-
 import java.io.*;
 	import java.util.*;
 

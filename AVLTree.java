@@ -1,5 +1,3 @@
-//package AMN170002;
-
 import java.util.Comparator;
 	
 	public class AVLTree<T extends Comparable<? super T>> extends BinarySearchTree<T> {
